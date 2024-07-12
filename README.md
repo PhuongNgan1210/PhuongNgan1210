@@ -1,6 +1,6 @@
 # Nguyen Tran Phuong Ngan
 
-![Profile Image](profile-image-url)
+![Profile Image](https://github.com/PhuongNgan1210/PhuongNgan1210/blob/c9be9235f52013c93a581158ffffa7f05d6b1a8c/IMG_6634.JPG))
 
 Aspiring Data Analyst/Business Analyst with a passion for leveraging data to drive business insights and decision-making. Currently pursuing a degree in Data Science in Economics and Business.
 
