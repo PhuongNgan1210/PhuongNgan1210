@@ -1,7 +1,5 @@
 # Nguyen Tran Phuong Ngan
 
-![Profile Image](https://github.com/PhuongNgan1210/PhuongNgan1210/blob/c9be9235f52013c93a581158ffffa7f05d6b1a8c/IMG_6634.JPG)
-
 Aspiring Data Analyst/Business Analyst with a passion for leveraging data to drive business insights and decision-making. Currently pursuing a degree in Data Science in Economics and Business.
 
 ## Table of Contents
@@ -86,6 +84,6 @@ I am a dedicated and enthusiastic data science student with a strong foundation 
 
 ## Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- Email: nguyenngan.ai4e.forwork@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nguy%E1%BB%85n-tr%E1%BA%A7n-ph%C6%B0%C6%A1ng-ng%C3%A2n-96837a197/
 - GitHub: [your-github-profile](https://github.com/your-username)
